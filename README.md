@@ -60,6 +60,6 @@ git clone https://github.com/Abdessamad-SAFIH/TP2-ComputerVision.git
 ---
 ## Auteur
 
-🧠 Author: Abdessamad
+🧠 Author: Abdessamad SAFIH
 
 📅 Year: 2025-2026
